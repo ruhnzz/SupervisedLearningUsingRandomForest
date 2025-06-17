@@ -1,4 +1,6 @@
 # SupervisedLearningUsingRandomForest
+statement: Scenario - You are working for an architecture firm, and your task is to build a model that predicts the energy efficiency rating of buildings based on features like wall area, roof area, overall height, etc.
+
 RandomForestRegressor is a machine learning model in the scikit-learn library used for regression tasks.
 It is based on the Random Forest algorithm so RandomForestRegressor is the regression version of the Random Forest algorithm. It predicts continuous numeric values, like house prices, temperatures, or energy efficiency ratings. supervised learnign has classification for classes like to predict yes or no regression to predict continous values
 
